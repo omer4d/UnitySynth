@@ -6,4 +6,8 @@
     MouseDeltaY,
     MouseAbsDeltaX,
     MouseAbsDeltaY,
+    LeftControllerDeltaMag,
+    RightControllerDeltaMag,
+    RightTriggerAnalog,
+    LeftTriggerAnalog,
 };
